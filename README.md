@@ -30,8 +30,8 @@ COVID-19 spread has changed day-to-day life in unprecedented ways. Organizations
 - Parameters like number of floors, allowed workforce% in the premise, etc. can be configured
 - Expandable to iOS devices as well
 
-Architecture:
-
+#### Architecture:
+![picture](img/Bandhu_Architecture.png)
 
 ###### Technology:
 - Android Studio 3.6.3
