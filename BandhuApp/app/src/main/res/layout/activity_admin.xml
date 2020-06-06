@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AdminActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/piechartitle"
+        android:text="Today's Workforce Split-Up"
+        android:paddingTop="5dp"
+        android:paddingBottom="10dp"
+        style="@style/StatusText"/>
+
+    <TextView
+        android:id="@+id/workforce"
+        android:text="Workforce percentage : 40%"
+        android:paddingBottom="10dp"
+        style="@style/StatusText"/>
+
+    <com.github.mikephil.charting.charts.PieChart
+        android:id="@+id/piechart"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>

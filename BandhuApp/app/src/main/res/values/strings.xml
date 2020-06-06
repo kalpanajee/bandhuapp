@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">FIS Bandhu</string>
+
+    <string name="service_id">com.example.bandhuapp</string>
+    <string name="hello">Hello !</string>
+    <string name="clickme">ClickME</string>
+    <string name="SigninWithGoogle">Button</string>
+
+
+    <string name="error_missing_permissions">Cannot start without required permissions</string>
+
+    <string name="codename">Welcome %s</string>
+    <string name="peersnearby">Peers around you </string>
+
+
+    <string name="status_disconnected">Disconnected</string>
+    <string name="status_searching">Searching</string>
+    <string name="status_connected">Connected</string>
+
+    <string name="ET">Email Id</string>
+    <string name="title_activity_work_force">WorkForce</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="ff1">FF1</string>
+    <string name="ff2">FF2</string>
+    <string name="ff3">FF3</string>
+
+    <string name="empidHint"><i>Employee ID</i></string>
+    <string name="mobileNumHint"><i>Mobile Number</i></string>
+    <string name="register">Register</string>
+
+    <string name="print">Print</string>
+</resources>
