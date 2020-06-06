@@ -31,7 +31,7 @@ COVID-19 spread has changed day-to-day life in unprecedented ways. Organizations
 - Expandable to iOS devices as well
 
 #### Architecture:
-![picture](img/Bandhu_Architecture.png)
+![alt text](https://github.com/kalpanajee/bandhuapp/Bandhu_Architecture.png)
 
 ###### Technology:
 - Android Studio 3.6.3
