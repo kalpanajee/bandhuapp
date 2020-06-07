@@ -11,8 +11,7 @@
 
     <meta-data
         android:name="com.google.android.nearby.messages.API_KEY"
-        android:value="AIzaSyAaq0qCFy5fQq5MqrKIJjRDu9loB0R5aeQ" /> <!-- android:value="AIzaSyBqFARiJYCfZGU2YZeFfXrnMt9gv_GZpnA" /> -->
-    <!-- AIzaSyDSl9iNIOZeUWxuQ8E4VTd8aAvZG6FPPQQ -->
+        android:value="API_KEY" /> 
     <meta-data
         android:name="com.google.android.gms.nearby.connection.SERVICE_ID"
         android:value="@string/service_id" />
