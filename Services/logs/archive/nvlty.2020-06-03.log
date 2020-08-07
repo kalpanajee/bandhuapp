@@ -1,4 +1,4 @@
-2020-06-03 14:35:42 [restartedMain] INFO  com.fisglobal.main.NvltyMain - MDC[] - Starting NvltyMain on System-1 with PID 22536 (C:\Neon\innovate\Nvlty\target\classes started by e1012444 in C:\Neon\innovate\Nvlty)
+2020-06-03 14:35:42 [restartedMain] INFO  com.fisglobal.main.NvltyMain - MDC[] - Starting NvltyMain on System-1 with PID 22536 (C:\Neon\innovate\Nvlty\target\classes started by User1 in C:\Neon\innovate\Nvlty)
 2020-06-03 14:35:42 [restartedMain] DEBUG com.fisglobal.main.NvltyMain - MDC[] - Running with Spring Boot v1.5.2.RELEASE, Spring v4.3.7.RELEASE
 2020-06-03 14:35:42 [restartedMain] INFO  com.fisglobal.main.NvltyMain - MDC[] - The following profiles are active: dev
 2020-06-03 14:35:42 [restartedMain] INFO  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext - MDC[] - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@1f549a0: startup date [Wed Jun 03 14:35:42 IST 2020]; root of context hierarchy
@@ -90,7 +90,7 @@
 2020-06-03 18:22:26 [Thread-6] INFO  o.s.b.a.e.jmx.EndpointMBeanExporter - MDC[] - Unregistering JMX-exposed beans on shutdown
 2020-06-03 18:22:26 [Thread-6] INFO  o.s.b.a.e.jmx.EndpointMBeanExporter - MDC[] - Unregistering JMX-exposed beans
 2020-06-03 18:22:26 [Thread-6] INFO  o.s.j.e.a.AnnotationMBeanExporter - MDC[] - Unregistering JMX-exposed beans on shutdown
-2020-06-03 18:22:27 [restartedMain] INFO  com.fisglobal.main.NvltyMain - MDC[] - Starting NvltyMain on System-1 with PID 22536 (C:\Neon\innovate\Nvlty\target\classes started by e1012444 in C:\Neon\innovate\Nvlty)
+2020-06-03 18:22:27 [restartedMain] INFO  com.fisglobal.main.NvltyMain - MDC[] - Starting NvltyMain on System-1 with PID 22536 (C:\Neon\innovate\Nvlty\target\classes started by user1 in C:\Neon\innovate\Nvlty)
 2020-06-03 18:22:27 [restartedMain] DEBUG com.fisglobal.main.NvltyMain - MDC[] - Running with Spring Boot v1.5.2.RELEASE, Spring v4.3.7.RELEASE
 2020-06-03 18:22:27 [restartedMain] INFO  com.fisglobal.main.NvltyMain - MDC[] - The following profiles are active: dev
 2020-06-03 18:22:27 [restartedMain] INFO  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext - MDC[] - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@b81c75: startup date [Wed Jun 03 18:22:27 IST 2020]; root of context hierarchy
